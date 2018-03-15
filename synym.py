@@ -7,4 +7,10 @@ from thesaurus import Word
 
 def cli(word):
     rWord = Word(word)
-    click.echo(rWord.synonyms())
+    synonyms = rWord.synonyms()
+    if not synonyms:
+        click.echo("No results.")
+        return
+
+    for idx,synonym in enumerate(synonyms):
+        click.echo("{0}. {1}".format(idx+1, synonym))
