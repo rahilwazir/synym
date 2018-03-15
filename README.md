@@ -25,6 +25,10 @@ $ synym tool
 
 Run `synym --help` for a list of further options
 
+## Related
+
+- [thesaurus-api](https://github.com/Manwholikespie/thesaurus-api) - An api for thesaurus.com
+
 ## License
 
 MIT © [Rahil Wazir](https://github.com/rahilwazir)
