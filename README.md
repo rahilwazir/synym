@@ -14,8 +14,22 @@ $ pip-3.6 install synym --process-dependency-links --user
 
 ```
 $ synym tool
-
-['engine', 'apparatus', 'means', 'utensil', 'weapon', 'appliance', 'mechanism', 'machine', 'device', 'gadget', 'gizmo', 'contraption', 'job', 'implement', 'contrivance', 'whatchamacallit']
+1. engine
+2. apparatus
+3. means
+4. utensil
+5. weapon
+6. appliance
+7. mechanism
+8. machine
+9. device
+10. gadget
+11. gizmo
+12. contraption
+13. job
+14. implement
+15. contrivance
+16. whatchamacallit
 ```
 
 ## Options
