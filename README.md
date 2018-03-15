@@ -4,8 +4,10 @@
 
 ## Install
 
+> _Only Python 3.x supported_
+
 ```
-$ pip install synym
+$ pip-3.6 install synym --process-dependency-links --user
 ```
 
 ## Usage
